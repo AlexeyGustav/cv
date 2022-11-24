@@ -1,0 +1,30 @@
+
+@media (max-width: 480px) {
+    body {
+       margin: 5px 10px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    .student {
+        font-size: 20px;
+    }
+    .university {
+        font-family: 'Lora', serif;
+        font-size: 20px;
+        margin-left: 0px;
+        letter-spacing: 1px;
+    }
+    .Java {
+        font-size: 17px;
+    }
+    .table {
+        font-size: 17px;
+    }
+    .card bg-green {
+        font-size: 17px;
+    }
+    .contact {
+        font-size: 17px;
+    }
+}
